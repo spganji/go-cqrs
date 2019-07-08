@@ -1,2 +1,2 @@
-# go-rest
-Simple RESTful JSON API in Go
+# go-cqrs
+CQRS pattern using Golang/Redis Cache/Redis Pubsub/Elasticsearch
