@@ -69,7 +69,7 @@ func db_redis_CreateStudent(p Student, q *gin.Context) {
 
 	max:= find_max_id()
 	//log.Println("Logging as of",time.Now()	)
-	log.Println("The max student id value is : ", max)
+	log.Println("The maximum student id value is : ", max)
 	
 	max++
 	log.Println("The next student id value is : ", max)
