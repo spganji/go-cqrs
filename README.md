@@ -1,2 +1,2 @@
 # go-cqrs
-CQRS pattern using Golang/Redis Cache/Redis Pubsub/Elasticsearch
+CQRS pattern example using Golang/Redis Cache/Redis Pubsub/Elasticsearch
